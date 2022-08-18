@@ -1,5 +1,3 @@
-from itertools import count
-from re import T
 import time
 import redis
 from flask import Flask
